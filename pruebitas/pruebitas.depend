@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634433590 source:c:\users\bazan\desktop\gg\pruebitas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
